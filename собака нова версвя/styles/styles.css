@@ -1,0 +1,85 @@
+
+.elDog{
+    background-image: url(../img/5845e69dfb0b0755fa99d7ef.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+
+}
+.elDog2{
+    background-image: url(../img/doge2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+
+}
+.elFrame{
+    width: 1000px;
+    height: 800px;
+    background-color: bisque    ;
+    margin: 0%;
+
+}
+.elDog3{
+    background-image: url(../img/doge3.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+
+}
+body{
+    margin: 0%;
+}
+.elCat{
+    background-image: url(../img/pngwing.com.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+   position: absolute;
+    width: 100px;
+    height: 100px;
+}
+.elHouse{
+    background-image: url(../img/pngwing.com\ \(1\).png);
+    background-size: contain;
+    background-repeat: no-repeat;
+   position: absolute;
+    width: 150px;
+    height: 150px;
+}
+.allhome{
+    display: none;
+    background-color: green;
+    height: 800px;
+    width: 1000px;
+}
+.gameover{
+    display: none;
+    background-color: red;
+    height: 800px;
+    width: 1000px;
+
+}
+p{
+    font-size: 80px;
+    margin: auto;
+    color: black;
+    font-weight: 900;
+    text-align: -webkit-center;
+}
+button{
+    height: 100px;
+    width: 200px;
+    position: relative;
+left: 50%;
+transform: translate(-50%, 0);
+margin-top: 50px;
+}
